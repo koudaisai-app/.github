@@ -1,6 +1,6 @@
 ---
 name: ToDo template
-about: See .github/ISSUE_TEMPLATE/custom.md
+about: See .github/ISSUE_TEMPLATE/.md
 title:  '[DATE]: [FEATURE NAME]'
 labels: ToDo
 projects: 
