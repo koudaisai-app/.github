@@ -1,16 +1,18 @@
 ---
 name: ToDo template
 about: See .github/ISSUE_TEMPLATE/.md
-title:  '[DATE]: [FEATURE NAME]'
+title:  '[NAME]: TODO'
 labels: ToDo
 projects: 
 assignees: 
 ---
 
 
-## やること
+## ToDoリスト
 
-1. To
-2. Do
-
-- [ ] a
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
