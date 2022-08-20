@@ -7,7 +7,15 @@ body:
     attributes:
       value: |
         Please make sure this feature request hasn't been already submitted by someone by looking through other open/closed issues
-  
+  - type: checkboxes
+    id: todo
+    attributes:
+      label: ToDo
+      description: you check
+      options:
+        - label: todo1
+          required: true
+        - label: todo2
   - type: textarea
     id: description
     attributes:
