@@ -3,9 +3,6 @@
 
 Githubでは工大祭の予約システム兼お助けスマホアプリの開発します。
 
-## Contributeの方法について
-Github flowを用いた開発をします。
-
 <!--
 
 **Here are some ideas to get you started:**
